@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<style>
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+ 
+header {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #993;
+    color: #fff;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #993;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+
+
+</style>
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" href="favicon.png">
+    <title>US Virgin Islands Travel Guide</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Welcome to the US Virgin Islands</h1>
+        <h2>Our top picks</h2>
+    </header>
+<center>
+    <nav>
+        <ul>
+            <li><a href="#https://www.camillajohannesen.com/blog/top-8-best-things-to-do-in-st-thomas-us-virgin-islands">Attractions</a></li>
+            
+            <li><a href="#https://www.ritzcarlton.com/en/hotels/sttrz-the-ritz-carlton-st-thomas/overview/">Hotels</a></li>
+            
+            <li><a href="#https://www.avis.com/en/locations/cv/saint-thomas/stt">Rental Cars</a></li>
+            
+            <li><a href="#https://www.morgansmango.com">Restaurants</a></li>
+            
+            <li><a href="#https://www.visitusvi.com/experiences/shopping">Shopping</a></li>
+        </ul>
+
+    </nav>
+ 
+
+</style>
+
+
+
+    <main>
+<center>
+       
+           
+        </section>
+
+
+        <section id="hotels">
+            <h3>Hotels</h3>
+            <p>other suitable hotels for your stay in the virgin islands.</p>
+           
+        </section>
+
+         <li> <a href="#https://www.marriott.com/en-us/hotels/sttwj-the-westin-st-john-resort-villas/overview/">The westin St John</a> </li>
+         
+    <p>  Revel in the days exploring sandy beaches and relaxing in your own piece of paradise at The Westin St. John Resort Villas, a premium vacation ownership resort in the U.S. Virgin Islands. Some of the most pristine beaches in the world are just a short walk or drive away. After sightseeing along the coastline, snorkeling, swimming and basking in the sun </p>
+    
+ 
+  <img src=" https://cache.marriott.com/content/dam/marriott-renditions/STTWJ/sttwj-exterior-2312-hor-clsc.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1846px:*" alt="The westin Stj" style="width: 100%; max-width: 500px;">
+<p>
+  
+          <li> <a href="#attractions">Margaritville St thomas</a> </li>
+<p>Located on Water Bay at the eastern end of St. Thomas, this beachside location is nestled in a cove fringed by waving palm trees. It’s the perfect escape for anyone with a sense of adventure looking for music and fun on your next vacation. Or if you’re dreaming of a more laid-back experience — grabbing that beach chair, kicking off your flip-flops, sipping a margarita while looking out onto an expanse of fine white sand, crystal-clear waters and St. John island in the distance — then this is the place for you.</p>
+
+
+<img src=" https://mgvc.wyndhamdestinations.com/content/dam/wyndham/wyndham-vacation-clubs/resorts/cw-st-thomas/amenities/001-st-thomas-gallery-amenity.jpg" alt="margaritaville" style="width: 100%; max-width: 500px;">
+
+ <section id="Top Attractions">
+            <h3>Top Attractions</h3>
+<p> other suitable attractions to see in the virgin islands. </p>
+
+            <ul>
+                <li> <a href="#https://stjohn-beachguide.com/trunk-bay/">Snorkel at Trunk Bay</a></li>
+
+<p> You'll find the best snorkeling in St John at Trunk Bay beach. There's an underwater snorkeling trail that's spectacular with colorful fish.<p>
+          
+                <img src=" https://i.ytimg.com/vi/DSberKNQWfY/hqdefault.jpg" alt="margaritaville" style="width: 100%; max-width: 500px;">
+                
+                <li> <a href="#https://www.nps.gov/nr/travel/prvi/pr29.htm">Visit the historic Fort Christiansvaern</a> </li>
+                
+             <p> Fort Christian, a National Historical Landmark is located between Veterans Dr. and Emancipation Garden in the town of Charlotte Amalie, St. Thomas Island, U.S. Virgin Islands. Although currently being restored, the fort is open Monday-Friday, 8:30am to 4:30pm. </p>
+                
+                 <img src=" https://www.nps.gov/nr/travel/prvi/buildings/pr29.jpg" alt="fort chrisitan" style="width: 100%; max-width: 500px;">
+                
+        
+            </ul>
+            
+            
+            
+            
+ <section id="Rental Cars">
+            <h3>Rental Cars</h3>
+            
+<p>other suitable rental cars for your stay in the virgin islands.</p>
+
+            <ul>
+                <li> <a href="#https://www.hertz.com/rentacar/location/usvirginislands/saintthomas/STTT02">Hertz Rental car USVI</a></li>
+                
+                <p> Reserve a Hertz car rental at Cyril E King Airport. With a wide selection of economy, luxury, and SUV rentals, check out current rental rates today and explore Saint Thomas rental cars.</p>
+           
+           
+            
+                 <img src="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_iKiL-sSqqjwH6di3hzqgRx98LU9VilXC9woHh5JRtw&s" alt="hertz " style="width: 100%; max-width: 500px;">
+                
+
+           
+                <li> <a href="#https://www.budgetstt.com"> Budget rental car</a> </li>
+                <p> Budget has been providing the U.S. Virgin Islands with outstanding service for more than 40 years. American citizens don't need a passport to come to the US Virgin Islands.<p>
+        
+ 
+       <img src=" https://www.budgetstt.com/images/logos/logo-02-budget-rent-a-car-st-thomas-coolestcarib.png" alt="budget " style="width: 100%; max-width: 500px;">
+                
+            
+            
+         <section id="Resturantes">
+            <h3>Resturantes</h3>
+            
+<p>other suitable resturantes for your stay in the virgin islands.</p>
+
+            <ul>
+                <li> <a href="#http://www.thesmokingrooster.com"> The Smoking Rooster </a></li>
+               
+               <p> SIMPLY SMOKED MEATS DONE RIGHT WITH HOUSE MADE RUBS AND SAUCE. LOCATED IN ST. THOMAS U.S.V.I. AT THE HAVENSIGHT DOCK </p>
+               
+                 <img src="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5fDcQmNTVvK98-P8KqBM-dhECzug9J4L4-1xhCwAvhg&s" alt="the smooking rooster " style="width: 100%; max-width: 500px;">
+                 <p>
+                 <p>
+                 
+                 
+                <li> <a href="#https://pizza-pi.com"> Pizza Pi </a> </li>
+           
+           <p> You can still count on the best pizza in the Caribbean, only with fresher ingredients (locally sourced whenever possible), a drink menu featuring island inspired cocktails and frozen drinks, and an enhanced venue to enjoy it all. </p> 
+           
+                 <img src="https://img.atlasobscura.com/Zm4AHe5El3iI3gqutk4aXd3nyO8gn5cvMuEXWpKGcS4/rs:fill:780:520:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84MTQ0/MjJiYi0wYmFmLTQz/OTctOGU2Ni1mZmUz/MDE1NTJjOTg5ZDYy/ZjBkMTQ2OWYyZTdm/MTVfUGl6emEgUGlf/YWdyZWlsbHkxMi5q/cGc.jpg" alt="the smooking rooster " style="width: 100%; max-width: 500px;">
+          
+            <section id="shopping">
+            
+            <h3>shopping</h3>
+
+
+            <ul>
+                <li> <a href="#https://big-planet.com">Big planet St john </a></li>
+                
+                <p> For over 20 years, Big Planet has provided visitors and locals alike with the best apparel and gear for island living. Located in Cruz Bay's Mongoose </p>
+
+                <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTho7ZUO9Stt27feBdtdI60FrbB7oCLifxoW--UHFk-3g&s" alt="big planet " style="width: 100%; max-width: 500px;">
+                
+                
+                <li> <a href="#https://chelseadrugstoreredhook.com"> Chelasia drug store</a> </li>
+                
+                <p> Call 24 hours per day to refill your prescriptions, after hours they will be ready the next morning. Join our automatic refill program, never run out of your medications we will refill your prescriptions automatically. Just ask at the pharmacy counter. </p>
+                
+                <img src=" https://static.spacecrafted.com/b69da0b5ee8e4afa8a17759178643fb8/i/ffc6893b2ff2453f8136f5e7a8d46133/1/5feFb8zhrk/Chelsea%20Drugstore%20Logo.png" alt="big planet " style="width: 100%; max-width: 500px;">
+          
+            </ul>
+  
+
+</center>  
+    </main>
+
+
+    <footer>
+        <p> Contact us with more questions: <a href="tkrygsveld@student.antilles.vi">Send email</a></p>
+        
+    </footer>
+
+
+
+</body>
+
+</html>
